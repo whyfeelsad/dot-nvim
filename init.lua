@@ -9,4 +9,4 @@
 
 -- Author: Aaron (https://github.com/whyfeelsad/dot-nvim)
 
-require("config.lazy")
+require('config.lazy')
